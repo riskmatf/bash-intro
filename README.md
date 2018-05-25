@@ -1,5 +1,5 @@
 #  Skripting u bash-u (Bourne Again SHell)
-<div style="text-align:center"><img width=50% heigth=50% src="./readme_res/logo.jpg"></div>
+<div align="center"><img width=50% heigth=50% src="./readme_res/logo.jpg"></div>
 
 ## O mini kursu
 Na Matematičkom fakultetu 02.12.2017. je održano kratko predavanje o skriptingu u bash-u sa ciljem da studente upozna sa mogućnostima shell jezika na *nix sistemima.
